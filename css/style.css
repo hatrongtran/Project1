@@ -542,6 +542,11 @@
     background: var(--bs-secondary);
     color: var(--bs-white);
 }
+
+/* .categories-img{
+    height: 300px;
+    width: 250px;
+} */
 /*** Cars Categories End ***/
 
 
